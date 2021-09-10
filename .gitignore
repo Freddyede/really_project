@@ -18,3 +18,11 @@
 /phpunit.xml
 .phpunit.result.cache
 ###< phpunit/phpunit ###
+
+.idea/
+
+composer.json
+
+composer.lock
+
+symfony.lock
